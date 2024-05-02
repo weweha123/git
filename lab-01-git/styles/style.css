@@ -1,0 +1,13 @@
+.header {
+    font-size: xxx-large;
+    font-weight: bold;
+    color: aqua;
+}
+
+.container {
+    display: flex;
+    padding: 36px;
+    gap: 14px;
+    margin-top: 10px;
+    border: medium black;
+}
